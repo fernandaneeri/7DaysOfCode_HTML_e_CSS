@@ -52,4 +52,8 @@ O resultado pode ser conferido [aqui](https://fernandaneeri.github.io/7DaysOfCod
 
 <br>
 
+Os conceitos de responsividade ainda não estão aplicados neste projeto.
+
+<br>
+
 Obrigada [Giovanna Moeller](https://www.instagram.com/girl.coding/), foi ótimo participar desse desafio com você!
