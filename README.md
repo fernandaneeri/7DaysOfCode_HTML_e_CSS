@@ -48,7 +48,7 @@ Este projeto trata-se de um desafio proposto da Alura juntamente com a Giovanna 
 
 <br>
 
-O resultado pode ser conferido [aqui]()!
+O resultado pode ser conferido [aqui](https://fernandaneeri.github.io/7DaysOfCode_HTML_e_CSS/)!
 
 <br>
 
